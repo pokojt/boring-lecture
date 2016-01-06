@@ -1,0 +1,17 @@
+body {
+  background-color: #D9D9D9;
+  text-align: center;
+}
+
+h2.intro {
+  font-style: oblique;
+}
+
+p.intro {
+  text-shadow: 5px 5px;
+}
+
+img.intro {
+  width: 500px;
+  height: auto;
+}
